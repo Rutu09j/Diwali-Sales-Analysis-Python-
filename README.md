@@ -19,7 +19,7 @@ Provide actionable insights for marketing and inventory planning.
 
 🛠 Tools & Technologies
 
-Tools Used: Python (Pandas, Matplotlib, Seaborn) / Power BI / Excel (update as per your work)
+Tools Used: Python (Pandas, Matplotlib, Seaborn) 
 
 Dataset:
 Kaggle - Diwali Sales Data 
@@ -42,9 +42,10 @@ Festive discounts played a major role in boosting sales.
 
 diwali_sales_data.csv
 
-README.md
+
 
 🔍 Future Scope
+
 Predict customer lifetime value during festive seasons.
 
 Segment customers for targeted promotions.
