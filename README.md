@@ -1,6 +1,7 @@
 # Diwali-Sales-Analysis-Python-
 Performed detailed analysis of Diwali sales data to uncover customer purchasing patterns, product trends, and regional performance to support data-driven festive marketing strategies.
  Diwali Sales Analysis Project
+ 
 📌 Project Overview
 
 The Diwali Sales Analysis project focuses on studying consumer purchasing behavior during the festive season. By analyzing sales data, the project aims to uncover insights about customer demographics, product categories, and regional performance to help businesses boost their future festive marketing strategies.
